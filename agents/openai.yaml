@@ -1,0 +1,7 @@
+interface:
+  display_name: "咨询级商业视觉设计"
+  short_description: "生成文字重构与商业隐喻融合的咨询风格封面、流程图和信息图"
+  brand_color: "#102A43"
+  default_prompt: "使用 $consulting-business-visuals，围绕主题「从流量增长到价值增长」生成中文 16:9 PPT 封面，直接展示最终画面。"
+policy:
+  allow_implicit_invocation: true
